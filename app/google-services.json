@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "871565081087",
+    "firebase_url": "https://logindemo-8110c.firebaseio.com",
+    "project_id": "logindemo-8110c",
+    "storage_bucket": "logindemo-8110c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871565081087:android:3c39ab165b8796aa",
+        "android_client_info": {
+          "package_name": "com.example.chandoras.newsdroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "871565081087-ft7tiiut2rmv9dn4612pnkel4m1qmnrh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chandoras.newsdroid",
+            "certificate_hash": "de3c03400a4895d5e9a326ca1636ef9c48276210"
+          }
+        },
+        {
+          "client_id": "871565081087-almp3fqkn0i83upfj5ctq27jjhmktuce.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8IRngQvsMuoGMfJm1UVBnG0hCYYqmnmg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "871565081087-almp3fqkn0i83upfj5ctq27jjhmktuce.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

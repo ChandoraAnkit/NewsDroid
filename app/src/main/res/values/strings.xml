@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">News Droid</string>
+    <string name="about" >We provide you all-in-one news app where you can get different types
+        of news at one place with best,simple and efficient user interface.Information used in this
+        app is taken from "newsapi.org" .
+        Brought to you by Ankit Chandora
+    </string>
+    <string name="error">Check your internet connection and come back..</string>
+
+</resources>
